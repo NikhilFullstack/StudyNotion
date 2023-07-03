@@ -1,4 +1,4 @@
-const BASE_URL = "https://knowledgewave.onrender.com"
+const BASE_URL = "https://studywithmentor.onrender.com"
 
 // AUTH ENDPOINTS
 export const endpoints = {
