@@ -2,7 +2,7 @@
 
 StudyNotion is a powerful and user-friendly educational technology platform designed to empower learners and instructors alike. Built on the MERN stack (MongoDB, Express.js, React.js, Node.js), it allows users to create, explore, and review educational content seamlessly. Whether you’re a student eager to learn or an instructor ready to share your expertise, StudyNotion offers an engaging and interactive learning environment accessible worldwide.
 
-[![Live Demo](https://img.shields.io/badge/demo-online-bright-mega-project-frontend.vere of Contents
+[![Live Demo](https://raw.githubusercontent.com/NikhilFullstack/StudyNotion/refs/heads/main/frontend/src/assets/Images/flowchart-studynotion.png) of Contents
 
 - [Architecture Overview](#architecture-overview)
 - [Front-end Features](#front-end-features)
