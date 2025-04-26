@@ -121,4 +121,3 @@ Thank you for exploring StudyNotion - your gateway to interactive and collaborat
 If you want, I can also help you generate the installation instructions or contributing guidelines in detail. Would you like me to do that?
 
 ---
-Answer from Perplexity: pplx.ai/share
