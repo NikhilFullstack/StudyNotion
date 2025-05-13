@@ -1,4 +1,5 @@
 # StudyNotion Ed-Tech Platform
+![Studywithmentor](https://github.com/user-attachments/assets/acbc6cde-9057-44e8-87f0-bd8163adaf0b)
 
 StudyNotion is a powerful and user-friendly educational technology platform designed to empower learners and instructors alike. Built on the MERN stack (MongoDB, Express.js, React.js, Node.js), it allows users to create, explore, and review educational content seamlessly. Whether you’re a student eager to learn or an instructor ready to share your expertise, StudyNotion offers an engaging and interactive learning environment accessible worldwide.
 
@@ -13,7 +14,8 @@ StudyNotion is a powerful and user-friendly educational technology platform desi
 - [Contributing](#contributing)
 - [License](#license)
 
----
+---![Studywithmentor linkedin](https://github.com/user-attachments/assets/cef9b42d-de38-4305-972f-ef2da46d6aae)
+
 
 ## Architecture Overview
 
